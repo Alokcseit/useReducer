@@ -1,0 +1,5 @@
+.completed {
+  filter: blur(2px);
+  opacity: 0.9;
+  /* Add any other styles you want for completed wish items */
+}
